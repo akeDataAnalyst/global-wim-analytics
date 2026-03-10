@@ -1,5 +1,7 @@
 # Global Warehousing & Inventory Analytics Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://global-wim-analytics-gwic3qhfeqtw9dte3f6n6j.streamlit.app/)
+
 This project simulate realistic data flows, cleaning, KPI development, risk scoring, and interactive visualization for a decentralized humanitarian logistics network.
 
 ## Project Highlights
